@@ -3,12 +3,12 @@ entries:
   raas-eap:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-04T12:33:07.457159213Z"
+    created: "2021-01-11T04:41:35.468738616Z"
     description: A Helm chart for Kubernetes
-    digest: f915ec1c921de4845687257563f0462596a75b218e469f0a7475b6b57ded0111
+    digest: 6eed6d0443432add9e6585eaad493dd42102cd6e94d95eced54a5b8262d1d15e
     name: raas-eap
     type: application
     urls:
     - raas-eap-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-04T12:33:07.455845264Z"
+generated: "2021-01-11T04:41:35.467478003Z"
